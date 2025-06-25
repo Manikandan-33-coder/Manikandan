@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Manikandan Murugan</h1>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/2cf62786-dc81-4deb-ba1f-f27a0b624a13)
+  <img src="https://avatars.githubusercontent.com/u/217011233?v=4
 " width="200"/>
 </p>
 
