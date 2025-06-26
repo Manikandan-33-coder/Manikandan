@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Manikandan Murugan</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manikandan-33-coder/Manikandan-33-coder/main/profilepic.jpg" width="200"/>
+  <img src=" https://github.com/Manikandan-33-coder" width="200"/>
 </p>
 
 ## 📌 About Me  
