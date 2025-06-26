@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Manikandan Murugan</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/217011233?v=4
-" width="200"/>
+  <img src="https://raw.githubusercontent.com/Manikandan-33-coder/Manikandan-33-coder/main/profilepic.jpg" width="200"/>
 </p>
 
 ## 📌 About Me  
@@ -26,10 +25,7 @@ Currently, I contribute at **Simba Projects** by mentoring students on AI-driven
 ## 🚀 Featured Projects  
 
 - 🧠 **MRI Brain Tumor Detection System**  
-  Built an AI-driven system using **CNN and SVM models** for classifying brain MRI scans. The project optimizes image preprocessing and ensures high-accuracy predictions for early tumor detection.
-
-- 🖐️ **Real-time Sign Language Interpreter**  
-  Developed an intelligent deep learning model integrated with **MediaPipe and OpenCV** to translate sign language gestures into text, bridging communication barriers for the hearing-impaired.
+- 🖐️ **Real-time Sign Language Interpreter**
 
 ---
 
