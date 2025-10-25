@@ -50,7 +50,7 @@ Currently, I contribute at **Simba Projects** by mentoring students on AI-driven
 
 - 📧 Email: [m.manikandan0112@gmail.com](mailto:m.manikandan0112@gmail.com)  
 - 📱 Mobile: +91 9345180295  
-- 🔗 LinkedIn: [www.linkedin.com/in/manikandan228](https://www.linkedin.com/in/manikandan228)
+
 
 ---
 
